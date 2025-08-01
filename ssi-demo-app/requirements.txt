@@ -1,0 +1,4 @@
+aiohttp==3.9.4
+aiohttp-cors==0.7.0
+qrcode[pil]==6.1
+asyncio
